@@ -11,12 +11,12 @@
  - Socket.io
  - Translate
 #### Dokumentace
- - **Dokumentace:** [dokumentace.docx](https://github.com/neostetic/Translator-School/blob/main/dokumentace.docx) ([download](https://github.com/neostetic/Translator-School/blob/main/dokumentace.docx?raw=true))
- - **Prezentace:** [prezentace.pptx](https://github.com/neostetic/Translator-School/blob/main/prezentace.pptx) ([download](https://github.com/neostetic/Translator-School/blob/main/prezentace.pptx?raw=true))
+ - **Dokumentace:** [dokumentace.docx](./dokumentace.docx) ([download](./dokumentace.docx?raw=true))
+ - **Prezentace:** [prezentace.pptx](./prezentace.pptx) ([download](./prezentace.pptx?raw=true))
 #### Instalace
  - Úplně jednoduše přes **nodejs**
 ```
-git clone https://github.com/neostetic/Translator-School.git
+git clone https://github.com/neostetic/Translator-Renewed.git
 npm i
 npm start
 ```
